@@ -17,7 +17,7 @@ check_dis = False
 
 @client.event
 async def on_ready():
-    print('Bebra ready!')
+    print('Ready!')
     print('-----------------------------------------------------------')
 
 
